@@ -1,1 +1,1 @@
-# socket-party
+# message-party

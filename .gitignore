@@ -1,3 +1,2 @@
 ~.vimbuffer
-socket-party
-*.swp
+.DS_Store

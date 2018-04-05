@@ -1,0 +1,9 @@
+/* syntax = "proto3"; */
+
+/* package gopherjs; */
+
+/* import "google/protobuf/descriptor.proto"; */
+
+/* extend google.protobuf.FileOptions { */
+/*   string gopherjs_package = 1039; */
+/* } */
